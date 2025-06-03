@@ -1,0 +1,5 @@
+com\example\mytop100movies\model\Movie.class
+com\example\mytop100movies\controller\TmdbController.class
+com\example\mytop100movies\MyTop100MoviesApplication.class
+com\example\mytop100movies\model\Movie$MovieBuilder.class
+com\example\mytop100movies\service\TmdbService.class
